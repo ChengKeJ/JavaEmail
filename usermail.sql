@@ -1,0 +1,15 @@
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', '1396987477@qq.com', NULL, 1, NULL, '671a2316 0d6d 4037 99dc e57da44e3e03');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('sss', 'ss', '1396987477@qq.com', 2, NULL, 'a50db9eb 5359 4a58 a931 49ade914dfbe');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('sad', 'sad', '1396987477@qq.com', 3, NULL, 'c8ffbe21 4144 4354 a795 2ab04da61096');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 4, NULL, 'cc2ce06a 51e6 44d6 bb57 d2f36f9958f7');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admins', 'admin', '1396987477@qq.com', 5, NULL, '9e3b0f2c efe1 46e1 b8e5 fccad8896861');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('sdsds', 'admin', '1396987477@qq.com', 6, NULL, 'b33482a9 9e74 4341 8fd7 77be4f6a2f02');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 7, NULL, 'f8e00e73 ae06 4da8 9efa 49a4040a0f09');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 8, NULL, '09435b8b 94dc 4220 b946 33fc046a5f19');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 9, NULL, 'dd81ac49 1c64 4d20 95dd 125b39631585');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 10, NULL, '7e28c9b9 c785 4463 bb59 71432cbc651f');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 11, NULL, '499f856c cedd 426d 904a b2a9e262cdb8');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 12, NULL, '8e19a593 2d6a 4947 978b cf968e06a751');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('admin', 'admin', '1396987477@qq.com', 13, NULL, 'b8865ef5 e90c 44dc b6ef 7953ddc2b427');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('aa', 'AA', '13063310938@163.com', 14, 1, 'f2ea4ce1 1a51 406e b6b1 5d028d6bd5c3');
+INSERT INTO `usermail` (`username`, `password`, `email`, `id`, `state`, `uuid`) VALUES ('sad', 'sad', '13063310938@163.com', 15, 1, 'b60d45dc 0680 44dd 8b53 5f066c70dbf3');
